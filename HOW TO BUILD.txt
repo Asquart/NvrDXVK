@@ -1,0 +1,5 @@
+To build x32 version just launch build_dxvk_32.bat
+No prerequisites are required - everything needed(including stuff like python, all the libraries, meson and other bs)
+is already included in the Toolchain folder to automate build process.
+To build x64 version.... oh well refer to the original dxvk documentation and god bless your soul
+unless you really hate decent UX and dont value your time(linux user)
